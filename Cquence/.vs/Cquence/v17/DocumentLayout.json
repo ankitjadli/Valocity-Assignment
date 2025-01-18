@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Valocity\\Cquence\\Cquence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|d:\\valocity\\cquence\\cquence\\gameengine\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|d:\\valocity\\cquence\\cquence\\gameengine\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|d:\\valocity\\cquence\\cquence\\gamerepository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|solutionrelative:gamerepository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02943A90-F774-4E5F-B1F0-256C03E5CB8E}|GameRepository.Contracts\\GameRepository.Contracts.csproj|d:\\valocity\\cquence\\cquence\\gamerepository.contracts\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02943A90-F774-4E5F-B1F0-256C03E5CB8E}|GameRepository.Contracts\\GameRepository.Contracts.csproj|solutionrelative:gamerepository.contracts\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E01512-302C-4EE7-940B-A1CD04DEF5FE}|Cquence.Tests\\Cquence.Tests.csproj|d:\\valocity\\cquence\\cquence\\cquence.tests\\gameenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E01512-302C-4EE7-940B-A1CD04DEF5FE}|Cquence.Tests\\Cquence.Tests.csproj|solutionrelative:cquence.tests\\gameenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\cquence.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\cquence.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02943A90-F774-4E5F-B1F0-256C03E5CB8E}|GameRepository.Contracts\\GameRepository.Contracts.csproj|d:\\valocity\\cquence\\cquence\\gamerepository.contracts\\gamerepository.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{02943A90-F774-4E5F-B1F0-256C03E5CB8E}|GameRepository.Contracts\\GameRepository.Contracts.csproj|solutionrelative:gamerepository.contracts\\gamerepository.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\cquence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\cquence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\configureservices\\injectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\configureservices\\injectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|d:\\valocity\\cquence\\cquence\\gamerepository\\gamerepository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|solutionrelative:gamerepository\\gamerepository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|d:\\valocity\\cquence\\cquence\\gamerepository\\gamerepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F951143-40A1-468F-A37B-E50119DBB887}|GameRepository\\GameRepository.csproj|solutionrelative:gamerepository\\gamerepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E66A1E9-7FA2-4282-A4FA-9D49D4156003}|Cquence.Domain\\Cquence.Domain.csproj|d:\\valocity\\cquence\\cquence\\cquence.domain\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E66A1E9-7FA2-4282-A4FA-9D49D4156003}|Cquence.Domain\\Cquence.Domain.csproj|solutionrelative:cquence.domain\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|d:\\valocity\\cquence\\cquence\\gameengine\\gameengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\gameengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E66A1E9-7FA2-4282-A4FA-9D49D4156003}|Cquence.Domain\\Cquence.Domain.csproj|d:\\valocity\\cquence\\cquence\\cquence.domain\\cquence.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E66A1E9-7FA2-4282-A4FA-9D49D4156003}|Cquence.Domain\\Cquence.Domain.csproj|solutionrelative:cquence.domain\\cquence.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|d:\\valocity\\cquence\\cquence\\gameengine\\gameengine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{00B99002-6899-4C58-B162-79FEA941C54D}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\gameengine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|d:\\valocity\\cquence\\cquence\\cquence\\cquence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{838D14AD-DD87-4670-9D20-969389A5012F}|Cquence\\Cquence.csproj|solutionrelative:cquence\\cquence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Cquence\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Cquence\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:35:28.508Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameEngineTests.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Tests\\GameEngineTests.cs",
+              "RelativeDocumentMoniker": "Cquence.Tests\\GameEngineTests.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Tests\\GameEngineTests.cs",
+              "RelativeToolTip": "Cquence.Tests\\GameEngineTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:04:20.921Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cquence.csproj",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.csproj",
+              "RelativeDocumentMoniker": "Cquence\\Cquence.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.csproj",
+              "RelativeToolTip": "Cquence\\Cquence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T00:29:41.291Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.cs",
+              "RelativeDocumentMoniker": "GameRepository\\GameRepository.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.cs",
+              "RelativeToolTip": "GameRepository\\GameRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:43:38.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cquence.http",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.http",
+              "RelativeDocumentMoniker": "Cquence\\Cquence.http",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.http",
+              "RelativeToolTip": "Cquence\\Cquence.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T10:27:50.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\appsettings.json",
+              "RelativeDocumentMoniker": "Cquence\\appsettings.json",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\appsettings.json",
+              "RelativeToolTip": "Cquence\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T10:27:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Program.cs",
+              "RelativeDocumentMoniker": "Cquence\\Program.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Program.cs",
+              "RelativeToolTip": "Cquence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:29:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\IServices\\IGameService.cs",
+              "RelativeDocumentMoniker": "GameEngine\\IServices\\IGameService.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\IServices\\IGameService.cs",
+              "RelativeToolTip": "GameEngine\\IServices\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:39:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameEngine\\Services\\GameService.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\Services\\GameService.cs",
+              "RelativeToolTip": "GameEngine\\Services\\GameService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:38:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameRepository.Contracts\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "GameRepository.Contracts\\IGameRepository.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameRepository.Contracts\\IGameRepository.cs",
+              "RelativeToolTip": "GameRepository.Contracts\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:48:39.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameRepository.Contracts",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameRepository.Contracts\\GameRepository.Contracts.csproj",
+              "RelativeDocumentMoniker": "GameRepository.Contracts\\GameRepository.Contracts.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameRepository.Contracts\\GameRepository.Contracts.csproj",
+              "RelativeToolTip": "GameRepository.Contracts\\GameRepository.Contracts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:48:41.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Domain\\GameState.cs",
+              "RelativeDocumentMoniker": "Cquence.Domain\\GameState.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Domain\\GameState.cs",
+              "RelativeToolTip": "Cquence.Domain\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:46:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InjectServices.cs",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\ConfigureServices\\InjectServices.cs",
+              "RelativeDocumentMoniker": "Cquence\\ConfigureServices\\InjectServices.cs",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\ConfigureServices\\InjectServices.cs",
+              "RelativeToolTip": "Cquence\\ConfigureServices\\InjectServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:38:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameRepository",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.csproj",
+              "RelativeDocumentMoniker": "GameRepository\\GameRepository.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.csproj",
+              "RelativeToolTip": "GameRepository\\GameRepository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:41:48.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameRepository.csproj",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.csproj",
+              "RelativeDocumentMoniker": "GameRepository\\GameRepository.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameRepository\\GameRepository.csproj",
+              "RelativeToolTip": "GameRepository\\GameRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:41:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cquence.Domain",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Domain\\Cquence.Domain.csproj",
+              "RelativeDocumentMoniker": "Cquence.Domain\\Cquence.Domain.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence.Domain\\Cquence.Domain.csproj",
+              "RelativeToolTip": "Cquence.Domain\\Cquence.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:45:09.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameEngine.csproj",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\GameEngine.csproj",
+              "RelativeDocumentMoniker": "GameEngine\\GameEngine.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\GameEngine.csproj",
+              "RelativeToolTip": "GameEngine\\GameEngine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:37:29.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameEngine",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\GameEngine.csproj",
+              "RelativeDocumentMoniker": "GameEngine\\GameEngine.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\GameEngine\\GameEngine.csproj",
+              "RelativeToolTip": "GameEngine\\GameEngine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T00:37:44.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cquence",
+              "DocumentMoniker": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.csproj",
+              "RelativeDocumentMoniker": "Cquence\\Cquence.csproj",
+              "ToolTip": "D:\\Valocity\\Cquence\\Cquence\\Cquence\\Cquence.csproj",
+              "RelativeToolTip": "Cquence\\Cquence.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T00:29:01.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
