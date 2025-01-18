@@ -1,0 +1,17 @@
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.AssemblyInfoInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.AssemblyInfo.cs
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.csproj.CoreCompileInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.core.gameengine.deps.json
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.core.gameengine.dll
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.core.gameengine.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\bin\Debug\net8.0\valocity.assignment.cquence.domain.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.csproj.AssemblyReference.cache
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\GameEngine.csproj.Up2Date
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\valocity.assignment.cquence.core.gameengine.dll
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\refint\valocity.assignment.cquence.core.gameengine.dll
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\valocity.assignment.cquence.core.gameengine.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameEngine\obj\Debug\net8.0\ref\valocity.assignment.cquence.core.gameengine.dll

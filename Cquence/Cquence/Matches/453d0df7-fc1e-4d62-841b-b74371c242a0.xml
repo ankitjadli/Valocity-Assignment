@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>453d0df7-fc1e-4d62-841b-b74371c242a0</GameId>
+  <UserId>user_f87jkf</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>clubs_5</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_K</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_5</CorrectSequence>
+  </RoundHistory>
+</Game>

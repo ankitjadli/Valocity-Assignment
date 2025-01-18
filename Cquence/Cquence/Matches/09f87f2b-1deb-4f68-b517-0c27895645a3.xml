@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>09f87f2b-1deb-4f68-b517-0c27895645a3</GameId>
+  <UserId>Ankit</UserId>
+  <CurrentLevel>3</CurrentLevel>
+  <CorrectSequence>diamonds_K,hearts_8,spades_6</CorrectSequence>
+  <SelectedCards></SelectedCards>
+</Game>

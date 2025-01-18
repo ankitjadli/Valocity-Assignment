@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>5db58def-91d1-4e47-b339-5665e5148bca</GameId>
+  <UserId>user_er4ake</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>hearts_3,diamonds_10</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt></IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_5</CorrectSequence>
+  </RoundHistory>
+</Game>

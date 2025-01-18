@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>9fa5ffb9-4384-46dd-bb62-764e72fb84d3</GameId>
+  <UserId>user_bb1ccv</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>diamonds_8</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>diamonds_10</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_8</CorrectSequence>
+  </RoundHistory>
+</Game>

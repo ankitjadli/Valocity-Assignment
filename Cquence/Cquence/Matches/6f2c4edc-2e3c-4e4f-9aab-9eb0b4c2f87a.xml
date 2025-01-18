@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>6f2c4edc-2e3c-4e4f-9aab-9eb0b4c2f87a</GameId>
+  <UserId>user_h5qhj</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>hearts_J,spades_8</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_J,diamonds_8</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_A</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>hearts_J,spades_8</CorrectSequence>
+  </RoundHistory>
+</Game>

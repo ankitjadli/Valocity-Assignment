@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>38e08651-8dd9-4f4b-96c2-4abd627bb08e</GameId>
+  <UserId>ankit</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>clubs_7</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt />
+</Game>

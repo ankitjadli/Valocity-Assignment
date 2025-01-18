@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>d8b2b66f-7adb-4ab2-8ca8-bece0508b50e</GameId>
+  <UserId>ankit</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>hearts_6,spades_9</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt></IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_8</CorrectSequence>
+  </RoundHistory>
+</Game>

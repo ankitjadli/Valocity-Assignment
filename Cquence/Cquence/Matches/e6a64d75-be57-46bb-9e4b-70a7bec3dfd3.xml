@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>e6a64d75-be57-46bb-9e4b-70a7bec3dfd3</GameId>
+  <UserId>user_91uonl</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>clubs_9,spades_J</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt></IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>spades_Q</CorrectSequence>
+  </RoundHistory>
+</Game>

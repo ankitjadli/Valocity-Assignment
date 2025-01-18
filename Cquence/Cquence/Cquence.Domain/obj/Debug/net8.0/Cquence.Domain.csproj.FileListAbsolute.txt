@@ -1,0 +1,11 @@
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\bin\Debug\net8.0\valocity.assignment.cquence.domain.deps.json
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\bin\Debug\net8.0\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\bin\Debug\net8.0\valocity.assignment.cquence.domain.pdb
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\Cquence.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\Cquence.Domain.AssemblyInfoInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\Cquence.Domain.AssemblyInfo.cs
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\Cquence.Domain.csproj.CoreCompileInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\refint\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\valocity.assignment.cquence.domain.pdb
+D:\.NET Developer\TaskManagement\Cquence\Cquence.Domain\obj\Debug\net8.0\ref\valocity.assignment.cquence.domain.dll

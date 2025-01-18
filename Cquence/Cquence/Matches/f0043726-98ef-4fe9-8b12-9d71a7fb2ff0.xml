@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>f0043726-98ef-4fe9-8b12-9d71a7fb2ff0</GameId>
+  <UserId>string</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>spades_2</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt />
+</Game>

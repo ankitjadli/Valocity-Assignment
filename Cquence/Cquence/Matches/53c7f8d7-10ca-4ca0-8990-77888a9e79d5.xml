@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>53c7f8d7-10ca-4ca0-8990-77888a9e79d5</GameId>
+  <UserId>user_tghxh</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>clubs_5,hearts_7</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>clubs_5,diamonds_7</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_6</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>clubs_5,hearts_7</CorrectSequence>
+  </RoundHistory>
+</Game>

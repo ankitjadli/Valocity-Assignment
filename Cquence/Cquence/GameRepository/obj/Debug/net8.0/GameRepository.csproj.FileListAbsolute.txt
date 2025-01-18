@@ -1,0 +1,17 @@
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.gamerepository.deps.json
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.domain.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepository.csproj.AssemblyReference.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepository.AssemblyInfoInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepository.AssemblyInfo.cs
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepository.csproj.CoreCompileInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\GameRepo.DC569A50.Up2Date
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\valocity.assignment.cquence.infrastructure.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\refint\valocity.assignment.cquence.infrastructure.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\valocity.assignment.cquence.infrastructure.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository\obj\Debug\net8.0\ref\valocity.assignment.cquence.infrastructure.gamerepository.dll

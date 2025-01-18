@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>887c0ff3-b9ac-49f5-99d8-022d8f85aeeb</GameId>
+  <UserId>user_mgmmc</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>clubs_A</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt />
+</Game>

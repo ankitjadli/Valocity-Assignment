@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>cbcf3dfc-8b36-4dd3-8ffc-ddee3691f3d0</GameId>
+  <UserId>user_cmoqw</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>clubs_J,hearts_6</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>clubs_J,diamonds_6</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_6</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>clubs_J,hearts_6</CorrectSequence>
+  </RoundHistory>
+</Game>

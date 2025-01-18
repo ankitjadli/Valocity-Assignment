@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>bd689b3b-8c4c-4888-810b-a01e7cd7f481</GameId>
+  <UserId>user_iwlmvr</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>diamonds_8</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_Q</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_8</CorrectSequence>
+  </RoundHistory>
+</Game>

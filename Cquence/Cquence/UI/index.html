@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cquence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="cquence-title">Cquence</div>
+
+        <button id="start-btn">Start Game</button>
+
+        <div id="score" class="score">
+            <div>Score: <span id="score-value">0</span></div>
+        </div>
+
+        <div id="sequence-display" class="sequence-display">
+            <div id="sequence-display-title">Cquence to Remember:</div>
+            <div id="sequence-cards" class="card-grid"></div>
+        </div>
+
+        <div id="game-rules">
+
+            <div id="game-rules-step1" class="game-rules-step">
+                <div>Memorize your cards</div>
+                <div id="card-grid-memorize" class="card-grid" style="display: grid; grid-template-columns: repeat(2, 1fr);">
+                    <div class="card" style="background-image: url(./images/diamonds_7.png);"></div>
+                    <div class="card" style="background-image: url(./images/clubs_A.png);"></div>
+                </div>
+            </div>
+
+            <div id="game-rules-step2" class="game-rules-step">
+                <div>Select cards as per sequence</div>
+                <div id="card-grid-select-cards" class="card-grid" style="display: grid; grid-template-columns: repeat(6, 1fr);">
+                    <div class="card" style="background-image: url(./images/spades_4.png);"></div>
+                    <div class="card" style="background-image: url(./images/clubs_9.png);"></div>
+                    <div class="card selected" style="background-image: url(./images/diamonds_7.png);"></div>
+                    <div class="card" style="background-image: url(./images/spades_5.png);"></div>
+                    <div class="card" style="background-image: url(./images/hearts_2.png);"></div>
+                    <div class="card" style="background-image: url(./images/spades_J.png);"></div>
+                    <div class="card" style="background-image: url(./images/spades_A.png);"></div>
+                    <div class="card selected" style="background-image: url(./images/clubs_A.png);"></div>
+                    <div class="card" style="background-image: url(./images/diamonds_J.png);"></div>
+                    <div class="card" style="background-image: url(./images/spades_2.png);"></div>
+                    <div class="card" style="background-image: url(./images/diamonds_10.png);"></div>
+                    <div class="card" style="background-image: url(./images/hearts_K.png);"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="card-grid" class="card-grid"></div>
+
+        <div id="user-lost-grid">
+            <div id="user-lost-correct-grid">
+                <div class="user-lost-grid-header">Correct Order</div>
+                <div id="card-grid-correct" class="card-grid"></div>
+            </div>
+            <div id="user-lost-incorrect-grid">
+                <div class="user-lost-grid-header">Your Order</div>
+                <div id="card-grid-user" class="card-grid"></div>
+            </div>
+        </div>
+
+        <div id="round-action-buttons">
+            <button id="submitButton">Submit Sequence</button>
+            <button id="resetButton">Reset</button>
+        </div>
+
+        <div id="match-history" class="match-history">
+            <h3>Match History</h3>
+            <ul id="history-list"></ul>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

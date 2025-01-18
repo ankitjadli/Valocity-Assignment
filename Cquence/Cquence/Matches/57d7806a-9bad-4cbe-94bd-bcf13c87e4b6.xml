@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>57d7806a-9bad-4cbe-94bd-bcf13c87e4b6</GameId>
+  <UserId>user_cvmwai</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>hearts_2,clubs_4</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_2,diamonds_4</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_3</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>hearts_2,clubs_4</CorrectSequence>
+  </RoundHistory>
+</Game>

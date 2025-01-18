@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>22edbc24-91cd-4f62-b2d0-a2a347a6de5e</GameId>
+  <UserId>user_bedn3</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>clubs_2</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_4</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_2</CorrectSequence>
+  </RoundHistory>
+</Game>

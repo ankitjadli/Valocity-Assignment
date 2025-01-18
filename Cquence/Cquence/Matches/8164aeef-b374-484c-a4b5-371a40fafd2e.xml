@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>8164aeef-b374-484c-a4b5-371a40fafd2e</GameId>
+  <UserId>user_b1v1cn</UserId>
+  <CurrentLevel>3</CurrentLevel>
+  <CorrectSequence>clubs_9,hearts_3,clubs_6</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>hearts_K,spades_J,hearts_9</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_A</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>hearts_Q,hearts_K</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>clubs_9,hearts_3,clubs_6</CorrectSequence>
+  </RoundHistory>
+</Game>

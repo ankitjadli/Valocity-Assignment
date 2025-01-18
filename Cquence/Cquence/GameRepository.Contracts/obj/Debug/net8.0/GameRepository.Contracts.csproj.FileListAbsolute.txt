@@ -1,0 +1,15 @@
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.deps.json
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\bin\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\bin\Debug\net8.0\valocity.assignment.cquence.domain.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\bin\Debug\net8.0\valocity.assignment.cquence.domain.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepository.Contracts.csproj.AssemblyReference.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepository.Contracts.AssemblyInfoInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepository.Contracts.AssemblyInfo.cs
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepository.Contracts.csproj.CoreCompileInputs.cache
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\GameRepo.B09632D0.Up2Date
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\refint\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\valocity.assignment.cquence.infrastructure.contacts.gamerepository.pdb
+D:\.NET Developer\TaskManagement\Cquence\GameRepository.Contracts\obj\Debug\net8.0\ref\valocity.assignment.cquence.infrastructure.contacts.gamerepository.dll

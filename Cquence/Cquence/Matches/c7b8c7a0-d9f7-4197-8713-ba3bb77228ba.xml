@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>c7b8c7a0-d9f7-4197-8713-ba3bb77228ba</GameId>
+  <UserId>user_tib6lb</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>diamonds_Q,spades_3</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>diamonds_Q,clubs_3</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>clubs_2</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>diamonds_Q,spades_3</CorrectSequence>
+  </RoundHistory>
+</Game>

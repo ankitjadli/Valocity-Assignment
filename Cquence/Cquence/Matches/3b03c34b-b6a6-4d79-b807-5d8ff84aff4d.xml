@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>3b03c34b-b6a6-4d79-b807-5d8ff84aff4d</GameId>
+  <UserId>user_ddtuqr</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>diamonds_7</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>clubs_Q</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>diamonds_7</CorrectSequence>
+  </RoundHistory>
+</Game>

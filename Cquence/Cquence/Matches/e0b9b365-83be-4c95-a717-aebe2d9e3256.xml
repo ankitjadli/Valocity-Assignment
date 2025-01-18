@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>e0b9b365-83be-4c95-a717-aebe2d9e3256</GameId>
+  <UserId>user_smogbn</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>hearts_A</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt />
+</Game>

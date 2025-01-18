@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>fd450a01-8bca-40ec-b177-f2c81a4f433b</GameId>
+  <UserId>user_dbh6no</UserId>
+  <CurrentLevel>2</CurrentLevel>
+  <CorrectSequence>spades_Q,spades_6</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>spades_6,clubs_Q</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>spades_10</CorrectSequence>
+  </RoundHistory>
+  <RoundHistory>
+    <CorrectSequence>spades_Q,spades_6</CorrectSequence>
+  </RoundHistory>
+</Game>

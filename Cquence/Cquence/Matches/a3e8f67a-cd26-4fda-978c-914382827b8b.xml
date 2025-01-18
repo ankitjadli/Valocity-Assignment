@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <GameId>a3e8f67a-cd26-4fda-978c-914382827b8b</GameId>
+  <UserId>user_l94py</UserId>
+  <CurrentLevel>1</CurrentLevel>
+  <CorrectSequence>spades_8</CorrectSequence>
+  <SelectedCards></SelectedCards>
+  <IncorrectSequenceAttempt>diamonds_8</IncorrectSequenceAttempt>
+  <RoundHistory>
+    <CorrectSequence>spades_8</CorrectSequence>
+  </RoundHistory>
+</Game>
